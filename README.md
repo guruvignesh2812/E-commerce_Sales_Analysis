@@ -1,7 +1,7 @@
 # 📊 E-Commerce Sales & Revenue Analysis (Excel | Data Analytics Project)
 
 
-![image](https://github.com/user-attachments/assets/419e6560-af5b-48f9-9750-1d014735e26f)
+   ![image](https://github.com/user-attachments/assets/419e6560-af5b-48f9-9750-1d014735e26f)
 
 ## 📌 Project Summary
 
